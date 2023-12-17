@@ -30,20 +30,21 @@ export default {
 
 
 
-I try m y best and added all the required functionalities hope you lik it
+I tried my best and added all the required functionalities hope you like i
+t
  Destination Explorer:
-○ Implement a page to search for destinations by city.
+○ Implementd a page to search for destinations by city.
 ○ Display a list of destinations with their names, ratings, and the
 number of reviews.
 ○ Use dummy data for destinations, including properties such as
 name, rating, and reviews.
 2. Review System:
-○ Implement a review system for destinations.
+○ Implemented a review system for destinations.
 ○ Display reviews with information such as destination name,
 review, rating, and user name.
 3. Itinerary Planner:
 ○ Create a page for users to plan itineraries.
-○ Implement a form to create a new itinerary with details such as
+○ Implemented a form to create a new itinerary with details such as
 name, date to start, and a list of destinations for the itinerary.
 ○ Initially while creating the itinerary it should be empty. Users can
 add places using a given search bar, and on click it destinations
