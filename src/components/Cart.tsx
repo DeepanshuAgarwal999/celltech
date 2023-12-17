@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import  { useEffect } from "react";
 import { DataType, dummyData } from "../dummyData";
 import { useNavigate, useParams } from "react-router-dom";
 import Card from "./Card";
